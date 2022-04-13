@@ -1,4 +1,4 @@
-package com.example.zipy_mobile_sdk;
+package com.example.demorecoder;
 
 import androidx.appcompat.app.AppCompatActivity;
 

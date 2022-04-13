@@ -1,4 +1,4 @@
-package com.example.zipy_mobile_sdk;
+package com.example.demorecoder;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,8 +6,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
-
-import com.example.screenrecodinglibrary.ScreenRecoderModule;
 
 public class MainActivity extends AppCompatActivity {
 
