@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zipy-mobile-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/zipy-mobile-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/zipy-mobile-sdk.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/zipy-mobile-sdk.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/screenrecodinglibrary/zipy-mobile-sdk.screenrecodinglibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/screenrecodinglibrary/zipy-mobile-sdk.screenrecodinglibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zipy-mobile-sdk/zipy-mobile-sdk.zipy-mobile-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/zipy-mobile-sdk/zipy-mobile-sdk.zipy-mobile-sdk.iml" />
+    </modules>
+  </component>
+</project>
