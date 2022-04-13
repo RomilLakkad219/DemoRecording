@@ -15,7 +15,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/romil_lakkad/zipy-mobile-sdk.git
+git remote add origin https://gitlab.com/romil_lakkad/test_two_three.git
 git branch -M main
 git push -uf origin main
 ```
